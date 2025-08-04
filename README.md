@@ -43,3 +43,7 @@ Backup Systems copy and move files between directories or drives.
 Log Management utilities generate and store logs for system diagnostics.
 
 Data Processing tools read from CSV, JSON, or XML files.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/a8a031a9-8296-4280-bdd9-c92f8bf5ba1d)
